@@ -1,0 +1,20 @@
+﻿Marka,Ürün kodu,HP,Faz,Ön filtre,PDF sayfası,Basılı sayfa
+MineuerX,PMPMN.050M,0.5,Monofaze,Var,5,2
+MineuerX,PMPMN.075M,0.75,Monofaze,Var,5,2
+MineuerX,PMPMN.100M,1,Monofaze,Var,5,2
+MineuerX,PMPMN.150M,1.5,Monofaze,Var,5,2
+MineuerX,PMP.BTB120GA,1,Monofaze,Yok,6,3
+MineuerX,PMP.BTP200GA,1.5,Monofaze,Yok,6,3
+MineuerX,PMP.BTP250GC,2,Monofaze,Yok,6,3
+MineuerX,PMP.BTP400GC,3,Monofaze,Yok,6,3
+MajeuerX,PMPMJ.100M,1,Monofaze,Var,7,4
+MajeuerX,PMPMJ.150M,1.5,Monofaze,Var,7,4
+MajeuerX,PMPMJ.200M,2,Monofaze,Var,7,4
+MajeuerX,PMPMJ.300M,3,Monofaze,Var,7,4
+MajeuerX,PMPMJ.100T,1,Trifaze,Var,7,4
+MajeuerX,PMPMJ.150T,1.5,Trifaze,Var,7,4
+MajeuerX,PMPMJ.200T,2,Trifaze,Var,7,4
+MajeuerX,PMPMJ.300T,3,Trifaze,Var,7,4
+MajeuerX,PMP.BTP-2200,3,Trifaze,Yok,8,5
+MajeuerX,PMP.BTP-3000,4,Trifaze,Yok,8,5
+MajeuerX,PMP.BTP-4000,5.5,Trifaze,Yok,8,5

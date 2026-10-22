@@ -1,0 +1,35 @@
+{
+  "name": "powerpool-servicehub",
+  "main": "src/worker.mjs",
+  "account_id": "28a1311936794cb7bb2bc3db9363a723",
+  "compatibility_date": "2026-10-20",
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
+  "workers_dev": true,
+  "preview_urls": false,
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS",
+    "run_worker_first": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "powerpool-servicehub",
+      "database_id": "5f50aee7-cbfc-4ad3-ad37-57884db0f267",
+      "migrations_dir": "migrations"
+    }
+  ],
+  "kv_namespaces": [
+    {
+      "binding": "PHOTOS",
+      "id": "fd5edaa2ee5c4351ba34c0bdc5e5ef6b"
+    }
+  ],
+  "triggers": {
+    "crons": [
+      "40 12,13 * * 1-5"
+    ]
+  }
+}

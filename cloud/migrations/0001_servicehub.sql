@@ -1,0 +1,10 @@
+PRAGMA foreign_keys = ON;
+CREATE TABLE settings (key TEXT PRIMARY KEY, value TEXT NOT NULL);
+CREATE TABLE counters (year INTEGER PRIMARY KEY, value INTEGER NOT NULL);
+CREATE TABLE records (id TEXT PRIMARY KEY, value TEXT NOT NULL, version INTEGER NOT NULL, request_key TEXT UNIQUE NOT NULL, fingerprint TEXT NOT NULL);
+CREATE TABLE photos (id TEXT PRIMARY KEY, record_id TEXT NOT NULL REFERENCES records(id) ON DELETE CASCADE, type TEXT NOT NULL, name TEXT NOT NULL, size INTEGER NOT NULL);
+CREATE INDEX photos_record ON photos(record_id);
+CREATE TABLE sessions (id TEXT PRIMARY KEY, csrf TEXT NOT NULL, until INTEGER NOT NULL);
+CREATE INDEX sessions_expiry ON sessions(until);
+CREATE TABLE attempts (key TEXT PRIMARY KEY, count INTEGER NOT NULL, until INTEGER NOT NULL);
+CREATE TABLE photo_cleanup (id TEXT PRIMARY KEY);

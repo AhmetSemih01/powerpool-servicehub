@@ -1,0 +1,5569 @@
+{
+  "version": "2026-10-21",
+  "brands": [
+    "İ-Garden",
+    "Aquax",
+    "Bs Pool",
+    "Antech",
+    "MineuerX",
+    "MajeuerX"
+  ],
+  "categories": {
+    "robot": "Havuz robotu",
+    "salt": "Tuz klor jeneratörü",
+    "dosing": "Dozaj pompası / dozajlama",
+    "control": "Ölçüm ve kontrol sistemi",
+    "cell": "Elektroliz hücresi",
+    "automation": "Otomasyon / elektrik panosu",
+    "sensor": "Sensör / elektrot",
+    "lighting": "Havuz aydınlatması",
+    "accessory": "Aksesuar / yardımcı ekipman",
+    "mixer": "Karıştırıcı",
+    "meter": "Su sayacı",
+    "blower": "Blower",
+    "pump": "Havuz pompası"
+  },
+  "items": [
+    {
+      "brand": "İ-Garden",
+      "model": "M1-50",
+      "product": "iGarden M1-50",
+      "category": "robot",
+      "source": {
+        "url": "https://www.powerpool.com.tr/wp-content/uploads/2026/08/M1-50-_compressed.pdf",
+        "page": 1
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "İ-Garden",
+      "model": "M1-80",
+      "product": "iGarden M1-80",
+      "category": "robot",
+      "source": {
+        "url": "https://www.powerpool.com.tr/wp-content/uploads/2026/08/M1-80-_compressed.pdf",
+        "page": 1
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "İ-Garden",
+      "model": "M1-100",
+      "product": "iGarden M1-100",
+      "category": "robot",
+      "source": {
+        "url": "https://www.powerpool.com.tr/wp-content/uploads/2026/08/M1-100-_compressed.pdf",
+        "page": 1
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "İ-Garden",
+      "model": "M1 Pro 125",
+      "product": "iGarden M1 Pro 125",
+      "category": "robot",
+      "source": {
+        "url": "https://www.powerpool.com.tr/wp-content/uploads/2026/08/M1-PRO-125-_compressed.pdf",
+        "page": 1
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "İ-Garden",
+      "model": "M1 Pro 125 AI",
+      "product": "iGarden M1 Pro 125 AI",
+      "category": "robot",
+      "source": {
+        "url": "https://www.powerpool.com.tr/wp-content/uploads/2026/08/M1-PRO-125-AI-_compressed.pdf",
+        "page": 1
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Aquax",
+      "model": "W30",
+      "product": "AQUAX W30",
+      "category": "robot",
+      "source": {
+        "url": "https://www.powerpool.com.tr/wp-content/uploads/2026/03/2026-POWERPOOL-KATALOG.pdf",
+        "page": 57
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Aquax",
+      "model": "W45",
+      "product": "AQUAX W45",
+      "category": "robot",
+      "source": {
+        "url": "https://www.powerpool.com.tr/wp-content/uploads/2026/03/2026-POWERPOOL-KATALOG.pdf",
+        "page": 57
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Aquax",
+      "model": "W80",
+      "product": "AQUAX W80",
+      "category": "robot",
+      "source": {
+        "url": "https://www.powerpool.com.tr/wp-content/uploads/2026/03/2026-POWERPOOL-KATALOG.pdf",
+        "page": 57
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "QuickSalt 15E",
+      "product": "BS Pool QuickSalt 15E",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 11
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "QuickSalt 20E",
+      "product": "BS Pool QuickSalt 20E",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 11
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "QuickSalt 25E",
+      "product": "BS Pool QuickSalt 25E",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 11
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "QuickSalt 32E",
+      "product": "BS Pool QuickSalt 32E",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 11
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "N-BsSalt 10",
+      "product": "BS Pool N-BsSalt 10",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 12
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "N-BsSalt 15",
+      "product": "BS Pool N-BsSalt 15",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 12
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "N-BsSalt 20",
+      "product": "BS Pool N-BsSalt 20",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 12
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "N-BsSalt 25",
+      "product": "BS Pool N-BsSalt 25",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 12
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "N-BsSalt 35",
+      "product": "BS Pool N-BsSalt 35",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 12
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "EVO Basic 10",
+      "product": "BS Pool EVO Basic 10",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 13
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "EVO Basic 15",
+      "product": "BS Pool EVO Basic 15",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 13
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "EVO Basic 20",
+      "product": "BS Pool EVO Basic 20",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 13
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "EVO Basic 25",
+      "product": "BS Pool EVO Basic 25",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 13
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "EVO Basic 35",
+      "product": "BS Pool EVO Basic 35",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 13
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Touch EVO 15",
+      "product": "BS Pool Touch EVO 15",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 14
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Touch EVO 20",
+      "product": "BS Pool Touch EVO 20",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 14
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Touch EVO 25",
+      "product": "BS Pool Touch EVO 25",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 14
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Touch EVO 35",
+      "product": "BS Pool Touch EVO 35",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 14
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Touch LS 15",
+      "product": "BS Pool Touch LS 15",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 15
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Touch LS 20",
+      "product": "BS Pool Touch LS 20",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 15
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Touch LS 30",
+      "product": "BS Pool Touch LS 30",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 15
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Touch EVO + 15",
+      "product": "BS Pool Touch EVO + 15",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 16
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Touch EVO + 20",
+      "product": "BS Pool Touch EVO + 20",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 16
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Touch EVO + 25",
+      "product": "BS Pool Touch EVO + 25",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 16
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Touch EVO + 35",
+      "product": "BS Pool Touch EVO + 35",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 16
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Touch BSLINK 15",
+      "product": "BS Pool Touch BSLINK 15",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 17
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Touch BSLINK 20",
+      "product": "BS Pool Touch BSLINK 20",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 17
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Touch BSLINK 25",
+      "product": "BS Pool Touch BSLINK 25",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 17
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Touch BSLINK 35",
+      "product": "BS Pool Touch BSLINK 35",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 17
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Touch LS BSLINK 15",
+      "product": "BS Pool Touch LS BSLINK 15",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 18
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Touch LS BSLINK 20",
+      "product": "BS Pool Touch LS BSLINK 20",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 18
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Touch LS BSLINK 30",
+      "product": "BS Pool Touch LS BSLINK 30",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 18
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Touch Plus BSLINK 15",
+      "product": "BS Pool Touch Plus BSLINK 15",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 19
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Touch Plus BSLINK 20",
+      "product": "BS Pool Touch Plus BSLINK 20",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 19
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Touch Plus BSLINK 25",
+      "product": "BS Pool Touch Plus BSLINK 25",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 19
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Touch Plus BSLINK 35",
+      "product": "BS Pool Touch Plus BSLINK 35",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 19
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Touch LS 50",
+      "product": "BS Pool Touch LS 50",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 21
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Touch LS 70",
+      "product": "BS Pool Touch LS 70",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 21
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Touch LS 100",
+      "product": "BS Pool Touch LS 100",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 21
+      },
+      "verifiedAt": "2026-10-16",
+      "note": "Katalogda yakında sunulacak ürün olarak işaretlenmiştir."
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Touch PRO 50",
+      "product": "BS Pool Touch PRO 50",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 22
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Touch PRO 70",
+      "product": "BS Pool Touch PRO 70",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 22
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Touch PRO 100",
+      "product": "BS Pool Touch PRO 100",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 22
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Touch PRO 150",
+      "product": "BS Pool Touch PRO 150",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 22
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Touch PRO BSLINK 50",
+      "product": "BS Pool Touch PRO BSLINK 50",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 23
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Touch PRO BSLINK 70",
+      "product": "BS Pool Touch PRO BSLINK 70",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 23
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Touch PRO BSLINK 100",
+      "product": "BS Pool Touch PRO BSLINK 100",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 23
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Touch PRO BSLINK 150",
+      "product": "BS Pool Touch PRO BSLINK 150",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 23
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PRO 50",
+      "product": "BS Pool PRO 50",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 24
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PRO 70",
+      "product": "BS Pool PRO 70",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 24
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PRO 100",
+      "product": "BS Pool PRO 100",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 24
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PRO 150",
+      "product": "BS Pool PRO 150",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 24
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PRO 200",
+      "product": "BS Pool PRO 200",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 24
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PRO 250",
+      "product": "BS Pool PRO 250",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 25
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PRO 400",
+      "product": "BS Pool PRO 400",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 26
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PRO 500",
+      "product": "BS Pool PRO 500",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 26
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PRO 600",
+      "product": "BS Pool PRO 600",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 26
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PRO 750",
+      "product": "BS Pool PRO 750",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 26
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PRO 1000",
+      "product": "BS Pool PRO 1000",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 26
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "TECH SALT OSC-200",
+      "product": "BS Pool TECH SALT OSC-200",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 27
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "TECH SALT OSC-400",
+      "product": "BS Pool TECH SALT OSC-400",
+      "category": "salt",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 27
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Kit Advanced (ORP)",
+      "product": "BS Pool Kit Advanced (ORP)",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 30
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Kit PRO CL",
+      "product": "BS Pool Kit PRO CL",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 30
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Kit Pro pHCL",
+      "product": "BS Pool Kit Pro pHCL",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 30
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Kit Tierra/1",
+      "product": "BS Pool Kit Tierra/1",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 30
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Kit Conductivity/2",
+      "product": "BS Pool Kit Conductivity/2",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 30
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Kit Sonda Agua",
+      "product": "BS Pool Kit Sonda Agua",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 30
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Kit Sonda Agua Pro",
+      "product": "BS Pool Kit Sonda Agua Pro",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 30
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Kit Sonda NTC/1",
+      "product": "BS Pool Kit Sonda NTC/1",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 30
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Kit Auto (pH)",
+      "product": "BS Pool Kit Auto (pH)",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 13
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Kit Auto PRO (pH)",
+      "product": "BS Pool Kit Auto PRO (pH)",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 25
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Kit Pro pHRX",
+      "product": "BS Pool Kit Pro pHRX",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 21
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Kit Advanced Touch (ORP)",
+      "product": "BS Pool Kit Advanced Touch (ORP)",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 14
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Kit Auto Touch (pH)",
+      "product": "BS Pool Kit Auto Touch (pH)",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 14
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Kit sonda temperatura",
+      "product": "BS Pool Kit sonda temperatura",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 14
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Kit BSLINK",
+      "product": "BS Pool Kit BSLINK",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 13
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "Kit PC SMART LORA",
+      "product": "BS Pool Kit PC SMART LORA",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 17
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PE1.5LH-AM",
+      "product": "BS Pool PE1.5LH-AM",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 31
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PE4LH-GR",
+      "product": "BS Pool PE4LH-GR",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 31
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PE1.5LH-AZ",
+      "product": "BS Pool PE1.5LH-AZ",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 31
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PE1.5LH-NA",
+      "product": "BS Pool PE1.5LH-NA",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 31
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PE1.5LH-BA",
+      "product": "BS Pool PE1.5LH-BA",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 31
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "CELL-RP 10/3-5",
+      "product": "BS Pool CELL-RP 10/3-5",
+      "category": "cell",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 33
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "CELL-RP 15/3-5",
+      "product": "BS Pool CELL-RP 15/3-5",
+      "category": "cell",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 33
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "CELL-RP 20/3-5",
+      "product": "BS Pool CELL-RP 20/3-5",
+      "category": "cell",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 33
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "CELL-RP 25/3-5",
+      "product": "BS Pool CELL-RP 25/3-5",
+      "category": "cell",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 33
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "CELL-RP 35/3-5",
+      "product": "BS Pool CELL-RP 35/3-5",
+      "category": "cell",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 33
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "CELL-RP 10/3",
+      "product": "BS Pool CELL-RP 10/3",
+      "category": "cell",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 33
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "CELL-RP 15/3",
+      "product": "BS Pool CELL-RP 15/3",
+      "category": "cell",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 33
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "CELL-RP 20/3",
+      "product": "BS Pool CELL-RP 20/3",
+      "category": "cell",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 33
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "CELL-RP 25/3",
+      "product": "BS Pool CELL-RP 25/3",
+      "category": "cell",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 33
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "CELL-RP 35/3",
+      "product": "BS Pool CELL-RP 35/3",
+      "category": "cell",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 33
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "CELL-RP 15BI",
+      "product": "BS Pool CELL-RP 15BI",
+      "category": "cell",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 34
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "CELL-RP 20BI",
+      "product": "BS Pool CELL-RP 20BI",
+      "category": "cell",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 34
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "CELL-RP 25BI",
+      "product": "BS Pool CELL-RP 25BI",
+      "category": "cell",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 34
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "CELL-RP 35BI",
+      "product": "BS Pool CELL-RP 35BI",
+      "category": "cell",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 34
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "CELL-RP 15/3LS",
+      "product": "BS Pool CELL-RP 15/3LS",
+      "category": "cell",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 34
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "CELL-RP 20/3LS",
+      "product": "BS Pool CELL-RP 20/3LS",
+      "category": "cell",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 34
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "CELL-RP 30/3LS",
+      "product": "BS Pool CELL-RP 30/3LS",
+      "category": "cell",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 34
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "CELL-RP/4 50/4",
+      "product": "BS Pool CELL-RP/4 50/4",
+      "category": "cell",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 35
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "CELL-RP/4 70/4",
+      "product": "BS Pool CELL-RP/4 70/4",
+      "category": "cell",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 35
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "CELL-TOUCH LS 50/4",
+      "product": "BS Pool CELL-TOUCH LS 50/4",
+      "category": "cell",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 36
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "CELL-TOUCH LS 70/4",
+      "product": "BS Pool CELL-TOUCH LS 70/4",
+      "category": "cell",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 36
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "RP100BSV",
+      "product": "BS Pool RP100BSV",
+      "category": "cell",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 37
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "RP150BSV",
+      "product": "BS Pool RP150BSV",
+      "category": "cell",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 37
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "RP200BSV",
+      "product": "BS Pool RP200BSV",
+      "category": "cell",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 37
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "RP250BSV",
+      "product": "BS Pool RP250BSV",
+      "category": "cell",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 37
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "KCPRO-MAN",
+      "product": "BS Pool KCPRO-MAN",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 38
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "KCPRO-AUTO",
+      "product": "BS Pool KCPRO-AUTO",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 38
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "BSLINK Gateway",
+      "product": "BS Pool BSLINK Gateway",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 42
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "BSLINK Box",
+      "product": "BS Pool BSLINK Box",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 42
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "BSLINK LoRa",
+      "product": "BS Pool BSLINK LoRa",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 42
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "EVO pH-P2",
+      "product": "BS Pool EVO pH-P2",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 44
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "EVO pH-P5",
+      "product": "BS Pool EVO pH-P5",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 44
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "EVO RX-P2",
+      "product": "BS Pool EVO RX-P2",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 44
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "EVO RX-P5",
+      "product": "BS Pool EVO RX-P5",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 44
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "EVO RX-C",
+      "product": "BS Pool EVO RX-C",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 44
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "EVO pH-I5",
+      "product": "BS Pool EVO pH-I5",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 44
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "EVO pH-I10",
+      "product": "BS Pool EVO pH-I10",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 44
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "EVO RX-I5",
+      "product": "BS Pool EVO RX-I5",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 44
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "EVO RX-I10",
+      "product": "BS Pool EVO RX-I10",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 44
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "P-PHRX",
+      "product": "BS Pool P-PHRX",
+      "category": "control",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 45
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "P-PHCL",
+      "product": "BS Pool P-PHCL",
+      "category": "control",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 45
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC-SMART + Controller",
+      "product": "BS Pool PC-SMART + Controller",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 47
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC-SMART + 100W",
+      "product": "BS Pool PC-SMART + 100W",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 47
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC-SMART + 100WTR",
+      "product": "BS Pool PC-SMART + 100WTR",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 47
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC-SMART + BSLINK",
+      "product": "BS Pool PC-SMART + BSLINK",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 48
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC200 ECO",
+      "product": "BS Pool PC200 ECO",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 49
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC201 ECO",
+      "product": "BS Pool PC201 ECO",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 49
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC202 ECO",
+      "product": "BS Pool PC202 ECO",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 49
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC203 ECO",
+      "product": "BS Pool PC203 ECO",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 49
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC204 ECO",
+      "product": "BS Pool PC204 ECO",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 49
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC934-DF-PCSMA",
+      "product": "BS Pool PC934-DF-PCSMA",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 49
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC400-ECO-100W",
+      "product": "BS Pool PC400-ECO-100W",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 50
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC401-ECO-100W",
+      "product": "BS Pool PC401-ECO-100W",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 50
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC402-ECO-100W",
+      "product": "BS Pool PC402-ECO-100W",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 50
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC403-ECO-100W",
+      "product": "BS Pool PC403-ECO-100W",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 50
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC404-ECO-100W",
+      "product": "BS Pool PC404-ECO-100W",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 50
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC400-ECO",
+      "product": "BS Pool PC400-ECO",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 50
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC401-ECO",
+      "product": "BS Pool PC401-ECO",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 50
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC402-ECO",
+      "product": "BS Pool PC402-ECO",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 50
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC403-ECO",
+      "product": "BS Pool PC403-ECO",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 50
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC404-ECO",
+      "product": "BS Pool PC404-ECO",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 50
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC405-ECO",
+      "product": "BS Pool PC405-ECO",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 50
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC406-ECO",
+      "product": "BS Pool PC406-ECO",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 50
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC407-ECO",
+      "product": "BS Pool PC407-ECO",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 50
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC408-ECO",
+      "product": "BS Pool PC408-ECO",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 50
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC409-ECO",
+      "product": "BS Pool PC409-ECO",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 50
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC160-50W",
+      "product": "BS Pool PC160-50W",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 50
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC161-50W",
+      "product": "BS Pool PC161-50W",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 50
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC162-50W",
+      "product": "BS Pool PC162-50W",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 50
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC163-50W",
+      "product": "BS Pool PC163-50W",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 50
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC164-50W",
+      "product": "BS Pool PC164-50W",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 50
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC160-100W",
+      "product": "BS Pool PC160-100W",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 50
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC161-100W",
+      "product": "BS Pool PC161-100W",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 50
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC162-100W",
+      "product": "BS Pool PC162-100W",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 50
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC163-100W",
+      "product": "BS Pool PC163-100W",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 50
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC164-100W",
+      "product": "BS Pool PC164-100W",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 50
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC160-ECO",
+      "product": "BS Pool PC160-ECO",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 50
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC161-ECO",
+      "product": "BS Pool PC161-ECO",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 50
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC162-ECO",
+      "product": "BS Pool PC162-ECO",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 50
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC163-ECO",
+      "product": "BS Pool PC163-ECO",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 50
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC164-ECO",
+      "product": "BS Pool PC164-ECO",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 50
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC740-50",
+      "product": "BS Pool PC740-50",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 51
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC740-50 RGB",
+      "product": "BS Pool PC740-50 RGB",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 51
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC740-100",
+      "product": "BS Pool PC740-100",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 51
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC740-100 RGB",
+      "product": "BS Pool PC740-100 RGB",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 51
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC740",
+      "product": "BS Pool PC740",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 51
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC740-RGB",
+      "product": "BS Pool PC740-RGB",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 51
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC750",
+      "product": "BS Pool PC750",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 52
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC750 RGB",
+      "product": "BS Pool PC750 RGB",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 52
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC755",
+      "product": "BS Pool PC755",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 52
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PC755 RGB",
+      "product": "BS Pool PC755 RGB",
+      "category": "automation",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 52
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PCSMA",
+      "product": "BS Pool PCSMA",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 53
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "PU-CARCASA",
+      "product": "BS Pool PU-CARCASA",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 53
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "6613",
+      "product": "BS Pool 6613",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 53
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "BPS2AAW",
+      "product": "BS Pool BPS2AAW",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 53
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "BPSI2AAW824",
+      "product": "BS Pool BPSI2AAW824",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 53
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "SMA2AAW1L",
+      "product": "BS Pool SMA2AAW1L",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 53
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "SMA2AAW1N",
+      "product": "BS Pool SMA2AAW1N",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 53
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "SMA2AAW1R",
+      "product": "BS Pool SMA2AAW1R",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 53
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "SMA2AAW2N",
+      "product": "BS Pool SMA2AAW2N",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 53
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Bs Pool",
+      "model": "SBR1AAW8122N00",
+      "product": "BS Pool SBR1AAW8122N00",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.bspool.eu/wp-content/uploads/2026/01/BSV_Catalogo2026.pdf",
+        "page": 53
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP NOVA A 10L/10B VACFAT",
+      "product": "Antech DP NOVA A 10L/10B VACFAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 8
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP NOVA A 3,5L/20B VACFAT",
+      "product": "Antech DP NOVA A 3,5L/20B VACFAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 8
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP NOVA A 25L/5B VACFAT",
+      "product": "Antech DP NOVA A 25L/5B VACFAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 8
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP NOVA D 10L/10B VACFAT",
+      "product": "Antech DP NOVA D 10L/10B VACFAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 9
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP NOVA D 3,5L/20B VACFAT",
+      "product": "Antech DP NOVA D 3,5L/20B VACFAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 9
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP NOVA D 25L/5B VACFAT",
+      "product": "Antech DP NOVA D 25L/5B VACFAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 9
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP NOVA DMPR 10L/10B VACFAT",
+      "product": "Antech DP NOVA DMPR 10L/10B VACFAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 10
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP NOVA DMPR 3,5L/20B VACFAT",
+      "product": "Antech DP NOVA DMPR 3,5L/20B VACFAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 10
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP NOVA DMPR 25L/5B VACFAT",
+      "product": "Antech DP NOVA DMPR 25L/5B VACFAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 10
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP NOVA DMIA 10L/10B VACFAT",
+      "product": "Antech DP NOVA DMIA 10L/10B VACFAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 11
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP NOVA DMIA 3,5L/20B VACFAT",
+      "product": "Antech DP NOVA DMIA 3,5L/20B VACFAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 11
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP NOVA DMIA 25L/5B VACFAT",
+      "product": "Antech DP NOVA DMIA 25L/5B VACFAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 11
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP LARA A 2L/10B V220FAT",
+      "product": "Antech DP LARA A 2L/10B V220FAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 14
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP LARA A 5L/7B V220FAT",
+      "product": "Antech DP LARA A 5L/7B V220FAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 14
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP LARA A 10L/5B V220FAT",
+      "product": "Antech DP LARA A 10L/5B V220FAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 14
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP LARA A 2L/20B V220FAT",
+      "product": "Antech DP LARA A 2L/20B V220FAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 14
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP LARA APS 2L/10B V220FAT",
+      "product": "Antech DP LARA APS 2L/10B V220FAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 15
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP LARA APS 5L/7B V220FAT",
+      "product": "Antech DP LARA APS 5L/7B V220FAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 15
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP LARA APS 10L/5B V220FAT",
+      "product": "Antech DP LARA APS 10L/5B V220FAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 15
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP LARA APS 2L/20B V220FAT",
+      "product": "Antech DP LARA APS 2L/20B V220FAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 15
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP LARA DS 2L/10B V220FAT",
+      "product": "Antech DP LARA DS 2L/10B V220FAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 16
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP LARA DS 5L/7B V220FAT",
+      "product": "Antech DP LARA DS 5L/7B V220FAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 16
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP LARA DS 10L/5B V220FAT",
+      "product": "Antech DP LARA DS 10L/5B V220FAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 16
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP LARA DS 2L/20B V220FAT",
+      "product": "Antech DP LARA DS 2L/20B V220FAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 16
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP LARA DMS 2L/10B V220FAT",
+      "product": "Antech DP LARA DMS 2L/10B V220FAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 17
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP LARA DMS 5L/7B V220FAT",
+      "product": "Antech DP LARA DMS 5L/7B V220FAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 17
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP LARA DMS 10L/5B V220FAT",
+      "product": "Antech DP LARA DMS 10L/5B V220FAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 17
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP LARA DMS 2L/20B V220FAT",
+      "product": "Antech DP LARA DMS 2L/20B V220FAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 17
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP LARA PR 2L/10B V220FAT",
+      "product": "Antech DP LARA PR 2L/10B V220FAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 18
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP LARA PR 5L/7B V220FAT",
+      "product": "Antech DP LARA PR 5L/7B V220FAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 18
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP LARA PR 10L/5B V220FAT",
+      "product": "Antech DP LARA PR 10L/5B V220FAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 18
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP LARA PR 2L/20B V220FAT",
+      "product": "Antech DP LARA PR 2L/20B V220FAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 18
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP OPTIMA A 5L/10B V220FAT",
+      "product": "Antech DP OPTIMA A 5L/10B V220FAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 22
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP OPTIMA A 2,5L/15B V220FAT",
+      "product": "Antech DP OPTIMA A 2,5L/15B V220FAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 22
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP OPTIMA A 5L/10B VPTFE 220FAT",
+      "product": "Antech DP OPTIMA A 5L/10B VPTFE 220FAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 22
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP OPTIMA A 2,5L/15B VPTFE 220FAT",
+      "product": "Antech DP OPTIMA A 2,5L/15B VPTFE 220FAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 22
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP NANO A 5L/5B V220FAT",
+      "product": "Antech DP NANO A 5L/5B V220FAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 24
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP NANO A 2L/10B V220FAT",
+      "product": "Antech DP NANO A 2L/10B V220FAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 24
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP LIKYA A 0,8L/10B V220FAT",
+      "product": "Antech DP LIKYA A 0,8L/10B V220FAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 26
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "DP LIKYA AS 0,8L/10B V220FAT",
+      "product": "Antech DP LIKYA AS 0,8L/10B V220FAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 26
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ASPENDOSE A 5,1L/0,5B D 220AT",
+      "product": "Antech ASPENDOSE A 5,1L/0,5B D 220AT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 32
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ASPENDOSE A 2,8L/3B R 220AT",
+      "product": "Antech ASPENDOSE A 2,8L/3B R 220AT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 32
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ASPENDOSE A 5,1L/0,5B A 220AT",
+      "product": "Antech ASPENDOSE A 5,1L/0,5B A 220AT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 32
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ASPENDOSE A 2,8L/3B A 220AT",
+      "product": "Antech ASPENDOSE A 2,8L/3B A 220AT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 32
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ASPENDOSE DMS 4,3L/0,5B A ACFAT",
+      "product": "Antech ASPENDOSE DMS 4,3L/0,5B A ACFAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 34
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ASPENDOSE DMS 2,5L/3B A ACFAT",
+      "product": "Antech ASPENDOSE DMS 2,5L/3B A ACFAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 34
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ASPENDOSE PR 4,3L/0,5B A ACFAT",
+      "product": "Antech ASPENDOSE PR 4,3L/0,5B A ACFAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 36
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ASPENDOSE PR 2,5L/3B A ACFAT",
+      "product": "Antech ASPENDOSE PR 2,5L/3B A ACFAT",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 36
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ASPENDOSE PER 100",
+      "product": "Antech ASPENDOSE PER 100",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 38
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ASPENDOSE PER 200",
+      "product": "Antech ASPENDOSE PER 200",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 38
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ASPENDOSE PER USER",
+      "product": "Antech ASPENDOSE PER USER",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 38
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ASPENDOSE PER 150",
+      "product": "Antech ASPENDOSE PER 150",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 40
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "EMD P14L/5B 380",
+      "product": "Antech EMD P14L/5B 380",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 28
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "EMD P32L/5B 380",
+      "product": "Antech EMD P32L/5B 380",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 28
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "EMD P49L/5B 380",
+      "product": "Antech EMD P49L/5B 380",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 28
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "EMD M50L/7B 380",
+      "product": "Antech EMD M50L/7B 380",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 30
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "EMD M100L/7B 380",
+      "product": "Antech EMD M100L/7B 380",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 30
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "EMD M150L/7B 380",
+      "product": "Antech EMD M150L/7B 380",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 30
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "EMD M200L/5B 380",
+      "product": "Antech EMD M200L/5B 380",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 30
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "EMD M310L/5B 380",
+      "product": "Antech EMD M310L/5B 380",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 30
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "EMD M420L/3B 380",
+      "product": "Antech EMD M420L/3B 380",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 30
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "EMD M630L/3B 380",
+      "product": "Antech EMD M630L/3B 380",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 30
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "YP ASPENDOSE OEM 2,8L/3B 24VDC",
+      "product": "Antech YP ASPENDOSE OEM 2,8L/3B 24VDC",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 42
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "YP ASPENDOSE OEM 5,1L/0,5B 24VDC",
+      "product": "Antech YP ASPENDOSE OEM 5,1L/0,5B 24VDC",
+      "category": "dosing",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 42
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "OMNICON PH",
+      "product": "Antech OMNICON PH",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 47
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "OMNICON ORP",
+      "product": "Antech OMNICON ORP",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 47
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "OMNICON CON",
+      "product": "Antech OMNICON CON",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 47
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "OMNICON GP",
+      "product": "Antech OMNICON GP",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 47
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "OMNICON PH ORP",
+      "product": "Antech OMNICON PH ORP",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 47
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "OMNICON PH CON",
+      "product": "Antech OMNICON PH CON",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 47
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "OMNICON PH FCL",
+      "product": "Antech OMNICON PH FCL",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 47
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "OMNICON PH GP",
+      "product": "Antech OMNICON PH GP",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 47
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "OMNICON 2 GP",
+      "product": "Antech OMNICON 2 GP",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 47
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "OMNICON PH ORP CON",
+      "product": "Antech OMNICON PH ORP CON",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 47
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "OMNICON PH ORP FCL",
+      "product": "Antech OMNICON PH ORP FCL",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 47
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "OMNICON PH ORP GP",
+      "product": "Antech OMNICON PH ORP GP",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 47
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "OMNICON PH CON GP",
+      "product": "Antech OMNICON PH CON GP",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 47
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "OMNICON EXPERT",
+      "product": "Antech OMNICON EXPERT",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 47
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "POOLSAVER TETRA",
+      "product": "Antech POOLSAVER TETRA",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 51
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "AQUAMETER PH",
+      "product": "Antech AQUAMETER PH",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 52
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "AQUAMETER CON",
+      "product": "Antech AQUAMETER CON",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 52
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "AQUAMETER ORP",
+      "product": "Antech AQUAMETER ORP",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 52
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SALT IONIC A 12GR/H",
+      "product": "Antech SALT IONIC A 12GR/H",
+      "category": "salt",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 56
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SALT IONIC A 24GR/H",
+      "product": "Antech SALT IONIC A 24GR/H",
+      "category": "salt",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 56
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SALT IONIC A 36GR/H",
+      "product": "Antech SALT IONIC A 36GR/H",
+      "category": "salt",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 56
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SALT IONIC PH 12GR/H",
+      "product": "Antech SALT IONIC PH 12GR/H",
+      "category": "salt",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 57
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SALT IONIC PH 24GR/H",
+      "product": "Antech SALT IONIC PH 24GR/H",
+      "category": "salt",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 57
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SALT IONIC PH 36GR/H",
+      "product": "Antech SALT IONIC PH 36GR/H",
+      "category": "salt",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 57
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SALT IONIC PR 12GR/H",
+      "product": "Antech SALT IONIC PR 12GR/H",
+      "category": "salt",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 58
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SALT IONIC PR 24GR/H",
+      "product": "Antech SALT IONIC PR 24GR/H",
+      "category": "salt",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 58
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SALT IONIC PR 36GR/H",
+      "product": "Antech SALT IONIC PR 36GR/H",
+      "category": "salt",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 58
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SALT IONIC ASPH 12GR/H",
+      "product": "Antech SALT IONIC ASPH 12GR/H",
+      "category": "salt",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 59
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SALT IONIC ASPH 24GR/H",
+      "product": "Antech SALT IONIC ASPH 24GR/H",
+      "category": "salt",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 59
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SALT IONIC ASPH 36GR/H",
+      "product": "Antech SALT IONIC ASPH 36GR/H",
+      "category": "salt",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 59
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SALT IONIC ASPR 12GR/H",
+      "product": "Antech SALT IONIC ASPR 12GR/H",
+      "category": "salt",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 60
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SALT IONIC ASPR 24GR/H",
+      "product": "Antech SALT IONIC ASPR 24GR/H",
+      "category": "salt",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 60
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SALT IONIC ASPR 36GR/H",
+      "product": "Antech SALT IONIC ASPR 36GR/H",
+      "category": "salt",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 60
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM I2",
+      "product": "Antech SYSTEM I2",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 63
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM I3",
+      "product": "Antech SYSTEM I3",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 64
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM I4",
+      "product": "Antech SYSTEM I4",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 65
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM I5",
+      "product": "Antech SYSTEM I5",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 66
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM I6",
+      "product": "Antech SYSTEM I6",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 67
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM I8",
+      "product": "Antech SYSTEM I8",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 68
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SALT IONIC INLINE 10GR/H",
+      "product": "Antech SALT IONIC INLINE 10GR/H",
+      "category": "salt",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 69
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SALT IONIC INLINE 20GR/H",
+      "product": "Antech SALT IONIC INLINE 20GR/H",
+      "category": "salt",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 69
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM 05",
+      "product": "Antech SYSTEM 05",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 74
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM 05 E",
+      "product": "Antech SYSTEM 05 E",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 74
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM 04",
+      "product": "Antech SYSTEM 04",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 75
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM 04 E",
+      "product": "Antech SYSTEM 04 E",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 75
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM 03",
+      "product": "Antech SYSTEM 03",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 76
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM 03 E",
+      "product": "Antech SYSTEM 03 E",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 76
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM AQUATIC 2,8L/3B",
+      "product": "Antech SYSTEM AQUATIC 2,8L/3B",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 77
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM AQUATIC 2,8L/3B E",
+      "product": "Antech SYSTEM AQUATIC 2,8L/3B E",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 77
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM 02",
+      "product": "Antech SYSTEM 02",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 78
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM 02 E",
+      "product": "Antech SYSTEM 02 E",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 78
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM 02 DP 450",
+      "product": "Antech SYSTEM 02 DP 450",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 79
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM 02 DP 450 E",
+      "product": "Antech SYSTEM 02 DP 450 E",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 79
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM 02 DP 750",
+      "product": "Antech SYSTEM 02 DP 750",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 80
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM 02 DP 750 E",
+      "product": "Antech SYSTEM 02 DP 750 E",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 80
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM 02 DP 1500",
+      "product": "Antech SYSTEM 02 DP 1500",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 81
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM 02 DP 1500 E",
+      "product": "Antech SYSTEM 02 DP 1500 E",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 81
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM OMNICON PH ORP",
+      "product": "Antech SYSTEM OMNICON PH ORP",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 82
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM OMNICON PH ORP E",
+      "product": "Antech SYSTEM OMNICON PH ORP E",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 82
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM OMNICON PH FCL SELECTIVE",
+      "product": "Antech SYSTEM OMNICON PH FCL SELECTIVE",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 83
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM OMNICON PH FCL",
+      "product": "Antech SYSTEM OMNICON PH FCL",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 84
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM OMNICON PH ORP FCL SELECTIVE",
+      "product": "Antech SYSTEM OMNICON PH ORP FCL SELECTIVE",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 85
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM OMNICON PH ORP FCL",
+      "product": "Antech SYSTEM OMNICON PH ORP FCL",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 86
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM OMNICON PH H2O2 SELECTIVE",
+      "product": "Antech SYSTEM OMNICON PH H2O2 SELECTIVE",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 87
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM OMNICON FCL SELECTIVE",
+      "product": "Antech SYSTEM OMNICON FCL SELECTIVE",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 88
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM OMNICON FCL",
+      "product": "Antech SYSTEM OMNICON FCL",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 89
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM OMNICON OZONE",
+      "product": "Antech SYSTEM OMNICON OZONE",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 90
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM OMNICON CLO2",
+      "product": "Antech SYSTEM OMNICON CLO2",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 91
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM OMNICON H2O2",
+      "product": "Antech SYSTEM OMNICON H2O2",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 92
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM OMNICON PH",
+      "product": "Antech SYSTEM OMNICON PH",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 93
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM OMNICON ORP",
+      "product": "Antech SYSTEM OMNICON ORP",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 94
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM OMNICON CONDUCTIVITY",
+      "product": "Antech SYSTEM OMNICON CONDUCTIVITY",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 95
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM AQUAMETER PH",
+      "product": "Antech SYSTEM AQUAMETER PH",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 96
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM AQUAMETER ORP",
+      "product": "Antech SYSTEM AQUAMETER ORP",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 97
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM AQUAMETER CON",
+      "product": "Antech SYSTEM AQUAMETER CON",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 98
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM AQUAMETER TOWER 01",
+      "product": "Antech SYSTEM AQUAMETER TOWER 01",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 99
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM OMNICON TOWER",
+      "product": "Antech SYSTEM OMNICON TOWER",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 100
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM OMNICON TOWER AS",
+      "product": "Antech SYSTEM OMNICON TOWER AS",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 101
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM OMNICON TOWER S272G",
+      "product": "Antech SYSTEM OMNICON TOWER S272G",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 102
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM OMNICON PH ORP CON FP",
+      "product": "Antech SYSTEM OMNICON PH ORP CON FP",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 103
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SYSTEM OMNICON PH ORP CON",
+      "product": "Antech SYSTEM OMNICON PH ORP CON",
+      "category": "control",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 104
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "HERA LIGHT RECESSED WHITE",
+      "product": "Antech HERA LIGHT RECESSED WHITE",
+      "category": "lighting",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 108
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "HERA LIGHT RECESSED DAYLIGHT",
+      "product": "Antech HERA LIGHT RECESSED DAYLIGHT",
+      "category": "lighting",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 108
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "HERA LIGHT RECESSED BLUE",
+      "product": "Antech HERA LIGHT RECESSED BLUE",
+      "category": "lighting",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 108
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "HERA LIGHT RECESSED RGB 2",
+      "product": "Antech HERA LIGHT RECESSED RGB 2",
+      "category": "lighting",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 108
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "HERA LIGHT RECESSED RGB 4",
+      "product": "Antech HERA LIGHT RECESSED RGB 4",
+      "category": "lighting",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 108
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "HERA LIGHT SURFACE MOUNTED WHITE",
+      "product": "Antech HERA LIGHT SURFACE MOUNTED WHITE",
+      "category": "lighting",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 108
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "HERA LIGHT SURFACE MOUNTED DAYLIGHT",
+      "product": "Antech HERA LIGHT SURFACE MOUNTED DAYLIGHT",
+      "category": "lighting",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 108
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "HERA LIGHT SURFACE MOUNTED BLUE",
+      "product": "Antech HERA LIGHT SURFACE MOUNTED BLUE",
+      "category": "lighting",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 108
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "HERA LIGHT SURFACE MOUNTED RGB 2",
+      "product": "Antech HERA LIGHT SURFACE MOUNTED RGB 2",
+      "category": "lighting",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 108
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "HERA LIGHT SURFACE MOUNTED RGB 4",
+      "product": "Antech HERA LIGHT SURFACE MOUNTED RGB 4",
+      "category": "lighting",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 108
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "HERA LIGHT RECESSED SLIM WHITE",
+      "product": "Antech HERA LIGHT RECESSED SLIM WHITE",
+      "category": "lighting",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 110
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "HERA LIGHT RECESSED SLIM DAYLIGHT",
+      "product": "Antech HERA LIGHT RECESSED SLIM DAYLIGHT",
+      "category": "lighting",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 110
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "HERA LIGHT RECESSED SLIM BLUE",
+      "product": "Antech HERA LIGHT RECESSED SLIM BLUE",
+      "category": "lighting",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 110
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "HERA LIGHT RECESSED SLIM RGB 2",
+      "product": "Antech HERA LIGHT RECESSED SLIM RGB 2",
+      "category": "lighting",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 110
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "HERA LIGHT RECESSED SLIM RGB 4",
+      "product": "Antech HERA LIGHT RECESSED SLIM RGB 4",
+      "category": "lighting",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 110
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE PH 1M SENSOR XS",
+      "product": "Antech ELECTRODE PH 1M SENSOR XS",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 116
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE PH 6M SENSOR XS",
+      "product": "Antech ELECTRODE PH 6M SENSOR XS",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 116
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE PH 15M SENSOR XS",
+      "product": "Antech ELECTRODE PH 15M SENSOR XS",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 116
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE PH 1MT E",
+      "product": "Antech ELECTRODE PH 1MT E",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 117
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE PH 6MT E",
+      "product": "Antech ELECTRODE PH 6MT E",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 117
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE PH 15MT E",
+      "product": "Antech ELECTRODE PH 15MT E",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 117
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE PH S272CD 20 BNC 6M SENSOR XS",
+      "product": "Antech ELECTRODE PH S272CD 20 BNC 6M SENSOR XS",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 118
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE PH S272CD HF 6M SENSOR XS",
+      "product": "Antech ELECTRODE PH S272CD HF 6M SENSOR XS",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 118
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE ORP 1M SENSOR XS",
+      "product": "Antech ELECTRODE ORP 1M SENSOR XS",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 123
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE ORP 6M SENSOR XS",
+      "product": "Antech ELECTRODE ORP 6M SENSOR XS",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 123
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE ORP 15M SENSOR XS",
+      "product": "Antech ELECTRODE ORP 15M SENSOR XS",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 123
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE ORP 1M E",
+      "product": "Antech ELECTRODE ORP 1M E",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 124
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE ORP 6M E",
+      "product": "Antech ELECTRODE ORP 6M E",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 124
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE ORP 15M E",
+      "product": "Antech ELECTRODE ORP 15M E",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 124
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE CONDUCTIVITY GRAPHITE 2CELL CT25 EN06 MIC NTC10K K1 AS1",
+      "product": "Antech ELECTRODE CONDUCTIVITY GRAPHITE 2CELL CT25 EN06 MIC NTC10K K1 AS1",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 128
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE CONDUCTIVITY GRAPHITE 2CELL NTC10K K1 AS6",
+      "product": "Antech ELECTRODE CONDUCTIVITY GRAPHITE 2CELL NTC10K K1 AS6",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 128
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE CONDUCTIVITY GRAPHITE 2CELL PT1000K1 AS1",
+      "product": "Antech ELECTRODE CONDUCTIVITY GRAPHITE 2CELL PT1000K1 AS1",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 129
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE CONDUCTIVITY GRAPHITE 2CELL PT1000K1 AS6",
+      "product": "Antech ELECTRODE CONDUCTIVITY GRAPHITE 2CELL PT1000K1 AS6",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 129
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE CONDUCTIVITY GRAPHITE 2CELL PT1000K0,1 AS1",
+      "product": "Antech ELECTRODE CONDUCTIVITY GRAPHITE 2CELL PT1000K0,1 AS1",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 129
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE CONDUCTIVITY GRAPHITE 2CELL PT1000K0,1 AS6",
+      "product": "Antech ELECTRODE CONDUCTIVITY GRAPHITE 2CELL PT1000K0,1 AS6",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 129
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE FCL/0 2 PPM SELECTIVE",
+      "product": "Antech ELECTRODE FCL/0 2 PPM SELECTIVE",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 131
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE FCL/0 5 PPM SELECTIVE",
+      "product": "Antech ELECTRODE FCL/0 5 PPM SELECTIVE",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 131
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE FCL/0 200 PPM SELECTIVE",
+      "product": "Antech ELECTRODE FCL/0 200 PPM SELECTIVE",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 131
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE CLO2/0 2 PPM SELECTIVE",
+      "product": "Antech ELECTRODE CLO2/0 2 PPM SELECTIVE",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 133
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE CLO2/0 10 PPM SELECTIVE",
+      "product": "Antech ELECTRODE CLO2/0 10 PPM SELECTIVE",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 133
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE OZONE /0 2 PPM SELECTIVE",
+      "product": "Antech ELECTRODE OZONE /0 2 PPM SELECTIVE",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 134
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE OZONE/0 5 PPM SELECTIVE",
+      "product": "Antech ELECTRODE OZONE/0 5 PPM SELECTIVE",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 134
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE OZONE /0 20 PPM SELECTIVE",
+      "product": "Antech ELECTRODE OZONE /0 20 PPM SELECTIVE",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 134
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE H2O2 / 0 200 PPM SELECTIVE",
+      "product": "Antech ELECTRODE H2O2 / 0 200 PPM SELECTIVE",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 135
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE H2O2/0 500 PPM SELECTIVE",
+      "product": "Antech ELECTRODE H2O2/0 500 PPM SELECTIVE",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 135
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE POTANSIOSTATIC S8",
+      "product": "Antech ELECTRODE POTANSIOSTATIC S8",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 137
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE TU 4/40/400 NTU PVC B",
+      "product": "Antech ELECTRODE TU 4/40/400 NTU PVC B",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 141
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE TU 100/1000/10000 FTU PVC B",
+      "product": "Antech ELECTRODE TU 100/1000/10000 FTU PVC B",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 141
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE TU 4/40/400 NTU INLINE PVC B",
+      "product": "Antech ELECTRODE TU 4/40/400 NTU INLINE PVC B",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 142
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE TU 100/1000/10000 FTU INLINE PVC B",
+      "product": "Antech ELECTRODE TU 100/1000/10000 FTU INLINE PVC B",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 142
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE TEMPERATURE NTC AS1",
+      "product": "Antech ELECTRODE TEMPERATURE NTC AS1",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 143
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE TEMPERATURE NTC AS6",
+      "product": "Antech ELECTRODE TEMPERATURE NTC AS6",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 143
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE TEMPERATURE PT100 C1",
+      "product": "Antech ELECTRODE TEMPERATURE PT100 C1",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 144
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE TEMPERATURE PT100 C5",
+      "product": "Antech ELECTRODE TEMPERATURE PT100 C5",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 144
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "PH A-S8 GLASS SENSOR",
+      "product": "Antech PH A-S8 GLASS SENSOR",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 119
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "PH A1M-BNC GLASS SENSOR",
+      "product": "Antech PH A1M-BNC GLASS SENSOR",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 120
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE PH 6M LC SENSOR XS",
+      "product": "Antech ELECTRODE PH 6M LC SENSOR XS",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 121
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE PH 2200 SPEAR TIP 1M SENSOR XS",
+      "product": "Antech ELECTRODE PH 2200 SPEAR TIP 1M SENSOR XS",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 122
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE S272CD ORP 20 BNC 6M SENSOR XS",
+      "product": "Antech ELECTRODE S272CD ORP 20 BNC 6M SENSOR XS",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 125
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE ORP A-S8 GLASS",
+      "product": "Antech ELECTRODE ORP A-S8 GLASS",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 126
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ORP A1M-BNC GLASS SENSOR",
+      "product": "Antech ORP A1M-BNC GLASS SENSOR",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 127
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE CONDUCTIVITY CS676HTTC K:1 SENSOR XS",
+      "product": "Antech ELECTRODE CONDUCTIVITY CS676HTTC K:1 SENSOR XS",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 130
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE CONDUCTIVITY CS676HTTC K:0.1 SENSOR XS",
+      "product": "Antech ELECTRODE CONDUCTIVITY CS676HTTC K:0.1 SENSOR XS",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 130
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE TCL/0 5 SELECTIVE",
+      "product": "Antech ELECTRODE TCL/0 5 SELECTIVE",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 132
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "AMPEROMETRIC FREE CHLORINE CELL",
+      "product": "Antech AMPEROMETRIC FREE CHLORINE CELL",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 136
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "STN ELECTRODE INLINE FLUOROMETER PTSA",
+      "product": "Antech STN ELECTRODE INLINE FLUOROMETER PTSA",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 138
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE DO OPTICAL PVC B",
+      "product": "Antech ELECTRODE DO OPTICAL PVC B",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 139
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE DO OPTICAL INLINE PVC B",
+      "product": "Antech ELECTRODE DO OPTICAL INLINE PVC B",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 140
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SENSOR TEMPARATURE NTC P1",
+      "product": "Antech SENSOR TEMPARATURE NTC P1",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 145
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SENSOR TEMPARATURE NTC P5",
+      "product": "Antech SENSOR TEMPARATURE NTC P5",
+      "category": "sensor",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 145
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE HOUSING 1 FILTER A",
+      "product": "Antech ELECTRODE HOUSING 1 FILTER A",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 153
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE HOUSING 1 FILTER-PG13,5 A",
+      "product": "Antech ELECTRODE HOUSING 1 FILTER-PG13,5 A",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 154
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE HOUSING 2-PG13,5",
+      "product": "Antech ELECTRODE HOUSING 2-PG13,5",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 154
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE HOUSING 2-S272",
+      "product": "Antech ELECTRODE HOUSING 2-S272",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 155
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE HOUSING 2-25MM",
+      "product": "Antech ELECTRODE HOUSING 2-25MM",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 155
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE HOUISNG 1-PG13,5",
+      "product": "Antech ELECTRODE HOUISNG 1-PG13,5",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 156
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE HOUSING 1",
+      "product": "Antech ELECTRODE HOUSING 1",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 156
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE HOUSING FLOW MODULE",
+      "product": "Antech ELECTRODE HOUSING FLOW MODULE",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 157
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE HOUSING CLIP SET",
+      "product": "Antech ELECTRODE HOUSING CLIP SET",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 157
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE HOUSING SET WITH FLOW MODULE BNC",
+      "product": "Antech ELECTRODE HOUSING SET WITH FLOW MODULE BNC",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 157
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE HOUSING VALVE SET",
+      "product": "Antech ELECTRODE HOUSING VALVE SET",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 157
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ANTI-SIPHON VALVE (1/2) 4X6 V",
+      "product": "Antech ANTI-SIPHON VALVE (1/2) 4X6 V",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 158
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE HOLDER INLINE TUDO PVC B",
+      "product": "Antech ELECTRODE HOLDER INLINE TUDO PVC B",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 159
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE HOUSE TU 910 PVC B",
+      "product": "Antech ELECTRODE HOUSE TU 910 PVC B",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 159
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "ELECTRODE HOUSE TU 920 PVC B",
+      "product": "Antech ELECTRODE HOUSE TU 920 PVC B",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 159
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SUBMERSIBLE PROBE HOLDER",
+      "product": "Antech SUBMERSIBLE PROBE HOLDER",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 160
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "PROBE HOLDER 272CD",
+      "product": "Antech PROBE HOLDER 272CD",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 160
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "SUBMERSIBLE PROBE HOLDER DO-TU PVC BTU",
+      "product": "Antech SUBMERSIBLE PROBE HOLDER DO-TU PVC BTU",
+      "category": "accessory",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 160
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "MIXER SPEED CONTROLLED 100 200 220V INOX",
+      "product": "Antech MIXER SPEED CONTROLLED 100 200 220V INOX",
+      "category": "mixer",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 164
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "MIXER SPEED CONTROLLED 300 IBC 220V INOX",
+      "product": "Antech MIXER SPEED CONTROLLED 300 IBC 220V INOX",
+      "category": "mixer",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 164
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "MIXER SPEED CONTROLLED 100 200 220V PVC",
+      "product": "Antech MIXER SPEED CONTROLLED 100 200 220V PVC",
+      "category": "mixer",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 165
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "MIXER SPEED CONTROLLED 300 IBC 220V PVC",
+      "product": "Antech MIXER SPEED CONTROLLED 300 IBC 220V PVC",
+      "category": "mixer",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 165
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "MIXER SLOW 100-200-300-IBC 220V",
+      "product": "Antech MIXER SLOW 100-200-300-IBC 220V",
+      "category": "mixer",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 166
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "MIXER SLOW 100-200-300-IBC 380V",
+      "product": "Antech MIXER SLOW 100-200-300-IBC 380V",
+      "category": "mixer",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 166
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "MIXER SLOW 100-200-300-IBC 220V PVC",
+      "product": "Antech MIXER SLOW 100-200-300-IBC 220V PVC",
+      "category": "mixer",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 167
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "MIXER SLOW 100-200-300-IBC 380V PVC",
+      "product": "Antech MIXER SLOW 100-200-300-IBC 380V PVC",
+      "category": "mixer",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 167
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "WATER METER CD15",
+      "product": "Antech WATER METER CD15",
+      "category": "meter",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 172
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "WATER METER CD20",
+      "product": "Antech WATER METER CD20",
+      "category": "meter",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 172
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "WATER METER MJSDC15",
+      "product": "Antech WATER METER MJSDC15",
+      "category": "meter",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 173
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "WATER METER MJSDC20",
+      "product": "Antech WATER METER MJSDC20",
+      "category": "meter",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 173
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "WATER METER MJSDC25",
+      "product": "Antech WATER METER MJSDC25",
+      "category": "meter",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 173
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "WATER METER MJSDC30",
+      "product": "Antech WATER METER MJSDC30",
+      "category": "meter",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 173
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "WATER METER MJSDC40",
+      "product": "Antech WATER METER MJSDC40",
+      "category": "meter",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 173
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "WATER METER MJSDC50",
+      "product": "Antech WATER METER MJSDC50",
+      "category": "meter",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 173
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "WATER METER MJSDC50FL",
+      "product": "Antech WATER METER MJSDC50FL",
+      "category": "meter",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 173
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "WATER METER WPSCD50",
+      "product": "Antech WATER METER WPSCD50",
+      "category": "meter",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 174
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "WATER METER WPSCD65",
+      "product": "Antech WATER METER WPSCD65",
+      "category": "meter",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 174
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "WATER METER WPSCD80",
+      "product": "Antech WATER METER WPSCD80",
+      "category": "meter",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 174
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "WATER METER WPSCD100",
+      "product": "Antech WATER METER WPSCD100",
+      "category": "meter",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 174
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "WATER METER WPSCD125",
+      "product": "Antech WATER METER WPSCD125",
+      "category": "meter",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 174
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "WATER METER WPSCD150",
+      "product": "Antech WATER METER WPSCD150",
+      "category": "meter",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 174
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "WATER METER WPSCD 200",
+      "product": "Antech WATER METER WPSCD 200",
+      "category": "meter",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 174
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "WATER METER MWN40",
+      "product": "Antech WATER METER MWN40",
+      "category": "meter",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 175
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "WATER METER MWN50",
+      "product": "Antech WATER METER MWN50",
+      "category": "meter",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 175
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "WATER METER MWN65",
+      "product": "Antech WATER METER MWN65",
+      "category": "meter",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 175
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "WATER METER MWN80",
+      "product": "Antech WATER METER MWN80",
+      "category": "meter",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 175
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "WATER METER MWN100",
+      "product": "Antech WATER METER MWN100",
+      "category": "meter",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 175
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "WATER METER MWN125",
+      "product": "Antech WATER METER MWN125",
+      "category": "meter",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 175
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "WATER METER MWN150",
+      "product": "Antech WATER METER MWN150",
+      "category": "meter",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 175
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "WATER METER MWN200",
+      "product": "Antech WATER METER MWN200",
+      "category": "meter",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 175
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "BLOWER 0,85KW 3P",
+      "product": "Antech BLOWER 0,85KW 3P",
+      "category": "blower",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 178
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "BLOWER 1,1KW 1P",
+      "product": "Antech BLOWER 1,1KW 1P",
+      "category": "blower",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 178
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "BLOWER 1,3KW 3P",
+      "product": "Antech BLOWER 1,3KW 3P",
+      "category": "blower",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 178
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "BLOWER 1,6KW",
+      "product": "Antech BLOWER 1,6KW",
+      "category": "blower",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 178
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "BLOWER 2,2KW 3P",
+      "product": "Antech BLOWER 2,2KW 3P",
+      "category": "blower",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 178
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "BLOWER 3KW 3P",
+      "product": "Antech BLOWER 3KW 3P",
+      "category": "blower",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 178
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "BLOWER 4KW 3P",
+      "product": "Antech BLOWER 4KW 3P",
+      "category": "blower",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 178
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "BLOWER 5,5KW 3P",
+      "product": "Antech BLOWER 5,5KW 3P",
+      "category": "blower",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 178
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "BLOWER 7,5KW 3P",
+      "product": "Antech BLOWER 7,5KW 3P",
+      "category": "blower",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 178
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "BLOWER 11KW 3P",
+      "product": "Antech BLOWER 11KW 3P",
+      "category": "blower",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 178
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "BLOWER 15KW 3P",
+      "product": "Antech BLOWER 15KW 3P",
+      "category": "blower",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 178
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "BLOWER 18,5KW 3P",
+      "product": "Antech BLOWER 18,5KW 3P",
+      "category": "blower",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 178
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "BLOWER 2,2KW 3P DOUBLE STAGE",
+      "product": "Antech BLOWER 2,2KW 3P DOUBLE STAGE",
+      "category": "blower",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 180
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "BLOWER 3KW 3P DOUBLE STAGE",
+      "product": "Antech BLOWER 3KW 3P DOUBLE STAGE",
+      "category": "blower",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 180
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "BLOWER 4KW 3P DOUBLE STAGE",
+      "product": "Antech BLOWER 4KW 3P DOUBLE STAGE",
+      "category": "blower",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 180
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "BLOWER 4,3KW 3P DOUBLE STAGE",
+      "product": "Antech BLOWER 4,3KW 3P DOUBLE STAGE",
+      "category": "blower",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 180
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "BLOWER 5,5KW 3P DOUBLE STAGE",
+      "product": "Antech BLOWER 5,5KW 3P DOUBLE STAGE",
+      "category": "blower",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 180
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "BLOWER 7,5KW 3P DOUBLE STAGE",
+      "product": "Antech BLOWER 7,5KW 3P DOUBLE STAGE",
+      "category": "blower",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 180
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "BLOWER 7,5KW 3P DOUBLE STAGE-H",
+      "product": "Antech BLOWER 7,5KW 3P DOUBLE STAGE-H",
+      "category": "blower",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 180
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "BLOWER 11KW 3P DOUBLE STAGE",
+      "product": "Antech BLOWER 11KW 3P DOUBLE STAGE",
+      "category": "blower",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 180
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "Antech",
+      "model": "BLOWER 15KW 3P DOUBLE STAGE",
+      "product": "Antech BLOWER 15KW 3P DOUBLE STAGE",
+      "category": "blower",
+      "source": {
+        "url": "https://www.enelsa.com/upload/2026061210541058_antech-2026-r2.pdf",
+        "page": 180
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "brand": "MineuerX",
+      "model": "0.5 HP · Monofaze · Ön filtreli · PMPMN.050M",
+      "product": "MineuerX 0.5 HP · Monofaze · Ön filtreli · PMPMN.050M",
+      "category": "pump",
+      "productCode": "PMPMN.050M",
+      "hp": 0.5,
+      "phase": "Monofaze",
+      "prefilter": true,
+      "source": {
+        "url": "https://www.powerpool.com.tr/wp-content/uploads/2026/03/2026-POWERPOOL-KATALOG.pdf",
+        "page": 5
+      },
+      "verifiedAt": "2026-10-21",
+      "note": "Güç: 0.5 HP · Besleme: Monofaze · Ön filtreli"
+    },
+    {
+      "brand": "MineuerX",
+      "model": "0.75 HP · Monofaze · Ön filtreli · PMPMN.075M",
+      "product": "MineuerX 0.75 HP · Monofaze · Ön filtreli · PMPMN.075M",
+      "category": "pump",
+      "productCode": "PMPMN.075M",
+      "hp": 0.75,
+      "phase": "Monofaze",
+      "prefilter": true,
+      "source": {
+        "url": "https://www.powerpool.com.tr/wp-content/uploads/2026/03/2026-POWERPOOL-KATALOG.pdf",
+        "page": 5
+      },
+      "verifiedAt": "2026-10-21",
+      "note": "Güç: 0.75 HP · Besleme: Monofaze · Ön filtreli"
+    },
+    {
+      "brand": "MineuerX",
+      "model": "1 HP · Monofaze · Ön filtreli · PMPMN.100M",
+      "product": "MineuerX 1 HP",
+      "category": "pump",
+      "productCode": "PMPMN.100M",
+      "hp": 1,
+      "phase": "Monofaze",
+      "prefilter": true,
+      "source": {
+        "url": "https://www.powerpool.com.tr/wp-content/uploads/2026/03/2026-POWERPOOL-KATALOG.pdf",
+        "page": 5
+      },
+      "verifiedAt": "2026-10-21",
+      "note": "Güç: 1 HP · Besleme: Monofaze · Ön filtreli"
+    },
+    {
+      "brand": "MineuerX",
+      "model": "1.5 HP · Monofaze · Ön filtreli · PMPMN.150M",
+      "product": "MineuerX 1.5 HP · Monofaze · Ön filtreli · PMPMN.150M",
+      "category": "pump",
+      "productCode": "PMPMN.150M",
+      "hp": 1.5,
+      "phase": "Monofaze",
+      "prefilter": true,
+      "source": {
+        "url": "https://www.powerpool.com.tr/wp-content/uploads/2026/03/2026-POWERPOOL-KATALOG.pdf",
+        "page": 5
+      },
+      "verifiedAt": "2026-10-21",
+      "note": "Güç: 1.5 HP · Besleme: Monofaze · Ön filtreli"
+    },
+    {
+      "brand": "MineuerX",
+      "model": "1 HP · Monofaze · Ön filtresiz · PMP.BTB120GA",
+      "product": "MineuerX 1 HP · Monofaze · Ön filtresiz · PMP.BTB120GA",
+      "category": "pump",
+      "productCode": "PMP.BTB120GA",
+      "hp": 1,
+      "phase": "Monofaze",
+      "prefilter": false,
+      "source": {
+        "url": "https://www.powerpool.com.tr/wp-content/uploads/2026/03/2026-POWERPOOL-KATALOG.pdf",
+        "page": 6
+      },
+      "verifiedAt": "2026-10-21",
+      "note": "Güç: 1 HP · Besleme: Monofaze · Ön filtresiz"
+    },
+    {
+      "brand": "MineuerX",
+      "model": "1.5 HP · Monofaze · Ön filtresiz · PMP.BTP200GA",
+      "product": "MineuerX 1.5 HP · Monofaze · Ön filtresiz · PMP.BTP200GA",
+      "category": "pump",
+      "productCode": "PMP.BTP200GA",
+      "hp": 1.5,
+      "phase": "Monofaze",
+      "prefilter": false,
+      "source": {
+        "url": "https://www.powerpool.com.tr/wp-content/uploads/2026/03/2026-POWERPOOL-KATALOG.pdf",
+        "page": 6
+      },
+      "verifiedAt": "2026-10-21",
+      "note": "Güç: 1.5 HP · Besleme: Monofaze · Ön filtresiz"
+    },
+    {
+      "brand": "MineuerX",
+      "model": "2 HP · Monofaze · Ön filtresiz · PMP.BTP250GC",
+      "product": "MineuerX 2 HP · Monofaze · Ön filtresiz · PMP.BTP250GC",
+      "category": "pump",
+      "productCode": "PMP.BTP250GC",
+      "hp": 2,
+      "phase": "Monofaze",
+      "prefilter": false,
+      "source": {
+        "url": "https://www.powerpool.com.tr/wp-content/uploads/2026/03/2026-POWERPOOL-KATALOG.pdf",
+        "page": 6
+      },
+      "verifiedAt": "2026-10-21",
+      "note": "Güç: 2 HP · Besleme: Monofaze · Ön filtresiz"
+    },
+    {
+      "brand": "MineuerX",
+      "model": "3 HP · Monofaze · Ön filtresiz · PMP.BTP400GC",
+      "product": "MineuerX 3 HP · Monofaze · Ön filtresiz · PMP.BTP400GC",
+      "category": "pump",
+      "productCode": "PMP.BTP400GC",
+      "hp": 3,
+      "phase": "Monofaze",
+      "prefilter": false,
+      "source": {
+        "url": "https://www.powerpool.com.tr/wp-content/uploads/2026/03/2026-POWERPOOL-KATALOG.pdf",
+        "page": 6
+      },
+      "verifiedAt": "2026-10-21",
+      "note": "Güç: 3 HP · Besleme: Monofaze · Ön filtresiz"
+    },
+    {
+      "brand": "MajeuerX",
+      "model": "1 HP · Monofaze · Ön filtreli · PMPMJ.100M",
+      "product": "MajeuerX 1 HP · Monofaze · Ön filtreli · PMPMJ.100M",
+      "category": "pump",
+      "productCode": "PMPMJ.100M",
+      "hp": 1,
+      "phase": "Monofaze",
+      "prefilter": true,
+      "source": {
+        "url": "https://www.powerpool.com.tr/wp-content/uploads/2026/03/2026-POWERPOOL-KATALOG.pdf",
+        "page": 7
+      },
+      "verifiedAt": "2026-10-21",
+      "note": "Güç: 1 HP · Besleme: Monofaze · Ön filtreli"
+    },
+    {
+      "brand": "MajeuerX",
+      "model": "1.5 HP · Monofaze · Ön filtreli · PMPMJ.150M",
+      "product": "MajeuerX 1.5 HP · Monofaze · Ön filtreli · PMPMJ.150M",
+      "category": "pump",
+      "productCode": "PMPMJ.150M",
+      "hp": 1.5,
+      "phase": "Monofaze",
+      "prefilter": true,
+      "source": {
+        "url": "https://www.powerpool.com.tr/wp-content/uploads/2026/03/2026-POWERPOOL-KATALOG.pdf",
+        "page": 7
+      },
+      "verifiedAt": "2026-10-21",
+      "note": "Güç: 1.5 HP · Besleme: Monofaze · Ön filtreli"
+    },
+    {
+      "brand": "MajeuerX",
+      "model": "2 HP · Monofaze · Ön filtreli · PMPMJ.200M",
+      "product": "MajeuerX 2 HP · Monofaze · Ön filtreli · PMPMJ.200M",
+      "category": "pump",
+      "productCode": "PMPMJ.200M",
+      "hp": 2,
+      "phase": "Monofaze",
+      "prefilter": true,
+      "source": {
+        "url": "https://www.powerpool.com.tr/wp-content/uploads/2026/03/2026-POWERPOOL-KATALOG.pdf",
+        "page": 7
+      },
+      "verifiedAt": "2026-10-21",
+      "note": "Güç: 2 HP · Besleme: Monofaze · Ön filtreli"
+    },
+    {
+      "brand": "MajeuerX",
+      "model": "3 HP · Monofaze · Ön filtreli · PMPMJ.300M",
+      "product": "MajeuerX 3 HP · Monofaze · Ön filtreli · PMPMJ.300M",
+      "category": "pump",
+      "productCode": "PMPMJ.300M",
+      "hp": 3,
+      "phase": "Monofaze",
+      "prefilter": true,
+      "source": {
+        "url": "https://www.powerpool.com.tr/wp-content/uploads/2026/03/2026-POWERPOOL-KATALOG.pdf",
+        "page": 7
+      },
+      "verifiedAt": "2026-10-21",
+      "note": "Güç: 3 HP · Besleme: Monofaze · Ön filtreli"
+    },
+    {
+      "brand": "MajeuerX",
+      "model": "1 HP · Trifaze · Ön filtreli · PMPMJ.100T",
+      "product": "MajeuerX 1 HP · Trifaze · Ön filtreli · PMPMJ.100T",
+      "category": "pump",
+      "productCode": "PMPMJ.100T",
+      "hp": 1,
+      "phase": "Trifaze",
+      "prefilter": true,
+      "source": {
+        "url": "https://www.powerpool.com.tr/wp-content/uploads/2026/03/2026-POWERPOOL-KATALOG.pdf",
+        "page": 7
+      },
+      "verifiedAt": "2026-10-21",
+      "note": "Güç: 1 HP · Besleme: Trifaze · Ön filtreli"
+    },
+    {
+      "brand": "MajeuerX",
+      "model": "1.5 HP · Trifaze · Ön filtreli · PMPMJ.150T",
+      "product": "MajeuerX 1.5 HP · Trifaze · Ön filtreli · PMPMJ.150T",
+      "category": "pump",
+      "productCode": "PMPMJ.150T",
+      "hp": 1.5,
+      "phase": "Trifaze",
+      "prefilter": true,
+      "source": {
+        "url": "https://www.powerpool.com.tr/wp-content/uploads/2026/03/2026-POWERPOOL-KATALOG.pdf",
+        "page": 7
+      },
+      "verifiedAt": "2026-10-21",
+      "note": "Güç: 1.5 HP · Besleme: Trifaze · Ön filtreli"
+    },
+    {
+      "brand": "MajeuerX",
+      "model": "2 HP · Trifaze · Ön filtreli · PMPMJ.200T",
+      "product": "MajeuerX 2 HP · Trifaze · Ön filtreli · PMPMJ.200T",
+      "category": "pump",
+      "productCode": "PMPMJ.200T",
+      "hp": 2,
+      "phase": "Trifaze",
+      "prefilter": true,
+      "source": {
+        "url": "https://www.powerpool.com.tr/wp-content/uploads/2026/03/2026-POWERPOOL-KATALOG.pdf",
+        "page": 7
+      },
+      "verifiedAt": "2026-10-21",
+      "note": "Güç: 2 HP · Besleme: Trifaze · Ön filtreli"
+    },
+    {
+      "brand": "MajeuerX",
+      "model": "3 HP · Trifaze · Ön filtreli · PMPMJ.300T",
+      "product": "MajeuerX 3 HP · Trifaze · Ön filtreli · PMPMJ.300T",
+      "category": "pump",
+      "productCode": "PMPMJ.300T",
+      "hp": 3,
+      "phase": "Trifaze",
+      "prefilter": true,
+      "source": {
+        "url": "https://www.powerpool.com.tr/wp-content/uploads/2026/03/2026-POWERPOOL-KATALOG.pdf",
+        "page": 7
+      },
+      "verifiedAt": "2026-10-21",
+      "note": "Güç: 3 HP · Besleme: Trifaze · Ön filtreli"
+    },
+    {
+      "brand": "MajeuerX",
+      "model": "3 HP · Trifaze · Ön filtresiz · PMP.BTP-2200",
+      "product": "MajeuerX 3 HP · Trifaze · Ön filtresiz · PMP.BTP-2200",
+      "category": "pump",
+      "productCode": "PMP.BTP-2200",
+      "hp": 3,
+      "phase": "Trifaze",
+      "prefilter": false,
+      "source": {
+        "url": "https://www.powerpool.com.tr/wp-content/uploads/2026/03/2026-POWERPOOL-KATALOG.pdf",
+        "page": 8
+      },
+      "verifiedAt": "2026-10-21",
+      "note": "Güç: 3 HP · Besleme: Trifaze · Ön filtresiz"
+    },
+    {
+      "brand": "MajeuerX",
+      "model": "4 HP · Trifaze · Ön filtresiz · PMP.BTP-3000",
+      "product": "MajeuerX 4 HP · Trifaze · Ön filtresiz · PMP.BTP-3000",
+      "category": "pump",
+      "productCode": "PMP.BTP-3000",
+      "hp": 4,
+      "phase": "Trifaze",
+      "prefilter": false,
+      "source": {
+        "url": "https://www.powerpool.com.tr/wp-content/uploads/2026/03/2026-POWERPOOL-KATALOG.pdf",
+        "page": 8
+      },
+      "verifiedAt": "2026-10-21",
+      "note": "Güç: 4 HP · Besleme: Trifaze · Ön filtresiz"
+    },
+    {
+      "brand": "MajeuerX",
+      "model": "5.5 HP · Trifaze · Ön filtresiz · PMP.BTP-4000",
+      "product": "MajeuerX 5.5 HP · Trifaze · Ön filtresiz · PMP.BTP-4000",
+      "category": "pump",
+      "productCode": "PMP.BTP-4000",
+      "hp": 5.5,
+      "phase": "Trifaze",
+      "prefilter": false,
+      "source": {
+        "url": "https://www.powerpool.com.tr/wp-content/uploads/2026/03/2026-POWERPOOL-KATALOG.pdf",
+        "page": 8
+      },
+      "verifiedAt": "2026-10-21",
+      "note": "Güç: 5.5 HP · Besleme: Trifaze · Ön filtresiz"
+    }
+  ]
+}
