@@ -219,6 +219,7 @@ $('#authForm').addEventListener('submit',async e=>{
 async function init() {
   try { const state=await api('/api/session');setup=state.setup;csrf=state.csrf;emailRegistrationEnabled=state.emailRegistration;$('#authSwitch').classList.toggle('hidden',setup);$('#usernameWrap').hidden=setup;$('#username').required=!setup;$('#setupTokenWrap').hidden=!setup||!!$('#setupToken').value;$('#setupToken').required=setup;$('#authTitle').textContent=setup?'İlk Kurulum':'Servis Sistemine Giriş';$('#authInfo').textContent=setup?'En az 8 karakterli bir yönetici şifresi belirleyin.':'E-posta adresiniz veya mevcut kullanıcı adınızla giriş yapın.';$('#password').minLength=setup?8:1;$('#password').autocomplete=setup?'new-password':'current-password';$('#confirmWrap').hidden=!setup;$('#confirm').required=setup;$('#authSubmit').textContent=setup?'Kurulumu Tamamla':'Giriş Yap';$('#authSubmit').disabled=false;if(state.authenticated){await load();$('#auth').classList.add('hidden');$('#app').classList.remove('hidden');}else if(!setup&&restoreVerification()){showVerificationScreen();} }
   catch(e){$('#authInfo').textContent='Sunucuya bağlanılamadı. Bağlantınızı kontrol edip sayfayı yenileyin.';$('#authError').textContent=e.message;}
+  finally{$('#startup').classList.add('hidden');if($('#app').classList.contains('hidden'))$('#auth').classList.remove('hidden');}
 }
 
 function renderUsers(){
